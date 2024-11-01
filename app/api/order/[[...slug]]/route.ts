@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { ARouter, R } from '@/framework/utils'
 import orderService from '@/framework/services/OrderService'
 import { $Enums, Order } from '@prisma/client'
