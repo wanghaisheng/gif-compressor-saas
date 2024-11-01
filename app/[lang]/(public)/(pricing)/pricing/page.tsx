@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { activateLocale, AVAILABLE_LOCALES, metadataLanguages } from '@/framework/locale/locale'
 import FAQs from '@/components/wegic/faqs'
 import Pricing from '@/components/wegic/pricing'
