@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { GET as paypalGET } from '@/framework/apis/PaypalApi'
 import {
   createStripeOrder,
