@@ -19,6 +19,11 @@
     "translate2": "yarn extract && node ./scripts/translate-locale.js && node ./scripts/translate-blogs.js",
     "compile": "lingui compile --typescript"
   },
+    "browser": {
+    "fs": false,
+    "path": false
+  },
+
   "dependencies": {
     "@ai-sdk/openai": "^0.0.65",
     "@ant-design/nextjs-registry": "^1.0.0",
