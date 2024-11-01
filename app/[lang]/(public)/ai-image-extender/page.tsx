@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import React from 'react'
 import { activateLocale, AVAILABLE_LOCALES, metadataLanguages } from '@/framework/locale/locale'
 import Hero from './views/hero'
