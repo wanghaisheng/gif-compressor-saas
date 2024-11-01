@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 'use client'
 import { Dropdown, DropdownItem, Skeleton, User } from '@nextui-org/react'
 import { Dropdown as AntDropDown } from 'antd'
