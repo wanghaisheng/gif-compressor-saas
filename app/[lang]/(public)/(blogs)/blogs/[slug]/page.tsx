@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { AVAILABLE_LOCALES } from '@/framework/locale/locale'
 import { getBlogPosts } from '@/framework/blogs/blogs'
 import { notFound } from 'next/navigation'
