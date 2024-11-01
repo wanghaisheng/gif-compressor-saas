@@ -1,5 +1,5 @@
-export const runtime = 'edge';
 'use client'
+export const runtime = 'edge';
 import { t } from '@lingui/macro'
 import Link from 'next/link'
 import { AVAILABLE_LOCALES } from '@/framework/locale/locale'
