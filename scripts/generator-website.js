@@ -8,9 +8,9 @@ const path = require('path')
  * 4. 基于给定的关键词，生成网站logo
  */
 // 网站关键词
-const keyword = 'extend image ai'
+const keyword = 'gif compressor,shrink gif,gif compressor for discord,gif file compressor'
 // 网站该要描述
-const description = '利用AI技术实现对图片进行扩展，在保证原始图片不变的前提下，扩展四周的内容，且能与原图片保持内容延续性'
+const description = 'A fast online GIF compressor to reduce GIF file size. Our GIF optimizer uses lossy compression and other strategies to reduce GIF size by up to 60%'
 // 参考的网站地址
 const website_likes = []
 const store_path = path.join(__dirname)
