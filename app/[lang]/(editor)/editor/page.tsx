@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { siteConfig } from '@/config/site'
 import { activateLocale, AVAILABLE_LOCALES } from '@/framework/locale/locale'
 import { t } from '@lingui/macro'
