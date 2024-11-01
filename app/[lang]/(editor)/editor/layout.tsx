@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import '../../../globals.css'
 import { Providers } from '../../(public)/providers'
 import React, { ReactNode } from 'react'
