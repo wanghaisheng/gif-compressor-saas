@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import orderService from '@/framework/services/OrderService'
 import { CrossSection, EmptyTips } from './views'
 import { first, isString } from 'radash'
