@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { activateLocale, AVAILABLE_LOCALES, metadataLanguages } from '@/framework/locale/locale'
 import BlogsPageClient from '@/app/[lang]/(public)/(blogs)/blogs/blogs-page-client'
 import { getBlogPosts } from '@/framework/blogs/blogs'
