@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { NextRequest } from 'next/server'
 import { R } from '@/framework/utils'
 import { createGetSingedUrl, createPutSingedUrl } from '@/framework/utils/s34r2'
