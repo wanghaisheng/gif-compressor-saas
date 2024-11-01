@@ -1,6 +1,6 @@
+'use client'
 export const runtime = 'edge';
 
-'use client'
 import { useForm } from 'react-hook-form'
 import md5 from 'blueimp-md5'
 import { useState } from 'react'
