@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { AVAILABLE_LOCALES, metadataLanguages } from '@/framework/locale/locale'
 import React from 'react'
 import services from '@/framework/services/OrderService'
