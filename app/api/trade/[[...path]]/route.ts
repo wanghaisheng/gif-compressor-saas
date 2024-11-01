@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { PUT, wrapGetRouter, wrapPostRouter } from '@/framework/apis/TradeApi'
 import { RECHARGES } from '@/lib/consts/products'
 
