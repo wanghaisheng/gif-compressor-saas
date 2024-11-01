@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 'use client'
 import { t } from '@lingui/macro'
 import Link from 'next/link'
