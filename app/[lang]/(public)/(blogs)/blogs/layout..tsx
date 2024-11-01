@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 import { Metadata } from 'next'
 import { t } from '@lingui/macro'
 import '../globals.css'
